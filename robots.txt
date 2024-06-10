@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://poldeclubrede.github.io/sitemap.html
+Sitemap: https://poldeclubrede.github.io/app/sitemap.html
+Sitemap: https://poldeclubrede.github.io/assets/sitemap.html
+Sitemap: https://poldeclubrede.github.io/css/sitemap.html
+Sitemap: https://poldeclubrede.github.io/includes/sitemap.html
+Sitemap: https://poldeclubrede.github.io/item/sitemap.html
+Sitemap: https://poldeclubrede.github.io/src/sitemap.html
